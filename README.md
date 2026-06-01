@@ -29,3 +29,5 @@ make run
 7. List books
 8. List members
 9. Quit
+
+<sub><sup>Originally developed and tested locally during learning. Later organized and pushed to GitHub for portfolio visibility.</sup></sub>
